@@ -1,0 +1,2 @@
+create view dd 
+as select * from table 2;
