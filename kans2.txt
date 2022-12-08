@@ -2,4 +2,5 @@ select * from table1
 left join table 2
 on a.b=b.a
 where a=b
-group by abc;
+group by abc
+having dsf;
