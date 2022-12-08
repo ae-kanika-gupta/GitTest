@@ -1,4 +1,5 @@
 select * from table1
 left join table 2
 on a.b=b.a
-where a=b;
+where a=b
+group by abc;
